@@ -1,0 +1,68 @@
+.navigation {
+  text-decoration: none;
+  display: inline-block;
+}
+
+nav {
+  background-color: black;
+  width: 100%;
+  font-weight: bold;
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+  color: turquoise;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 15px;
+}
+
+li {
+  padding: 5px 0px;
+  margin-left: 20px;
+}
+
+p {
+  width: 600px;
+  font-size: 18px;
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: turquoise;
+}
+
+h2 {
+  padding-left: 30px;
+  color: turquoise;
+}
+
+body {
+  background-color: steelblue;
+}
+
+footer {
+  margin-bottom: 40px;
+  margin-top: 40px;
+  background: black;
+  color: turquoise;
+  padding-left: 30px;
+  font-size: 18px;
+}
+
+ #box-container {
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  	align-items: center;
+ }
+
+.teddy {
+	width: 300px;
+	length: 500px;
+}
